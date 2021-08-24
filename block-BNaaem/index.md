@@ -13,6 +13,6 @@ Modify book-store app from APIs basics chapter to
   - add price and quantity
 
 - add cart option for each user to buy books
-  - each user will have one cart
+  - each user will have one
   - logged in user can add books to his cart
   - logged user can remove books from his cart
